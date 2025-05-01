@@ -6,7 +6,8 @@ I am a military veteran with nearly 20 years of experience in the Royal New Zeal
 
 
 ## 🤖 Tech Stack
-<p align="centre">
+## 🤖 Tech Stack
+<p align="left" style="text-decoration: none;">
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer" style="text-decoration: none;">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
   </a>
@@ -41,6 +42,7 @@ I am a military veteran with nearly 20 years of experience in the Royal New Zeal
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
   </a>
 </p>
+
 
 
 ## 🌱 Current Learning
