@@ -19,7 +19,10 @@
 ### 🔭 Current Projects
 <ul>
 <li>Motivating Mike: This app is a fun and motivating task management tool that encourages users to complete their to-do list by engaging with anavatar. Users can select an avatar, which acts as their virtual companion or guide throughout their productivity journey. The app transforms task completion into an interactive experience, making everyday chores and goals more engaging and rewarding. With a playful and supportive environment, it helps users stay organised, motivated, and on track by turning productivity into an adventure with their chosen avatar cheering them on. However, be careful not to procrastinate otherwise your avatar may disagree with your choices!</li>
-<li>AI Assistant Applications: This AI Assistant is a smart, advisory AI that supports ground based personnel by analysing target, weather, and terrain information. By interpreting this information the AI is able to identify the most likely direction of movement, potential location, and/or the next step personnel on the ground should take.</li>
+  
+<li>Final Target: An immersive, strategic stealth game where players are assigned a secret target while simultaneously being hunted by another player. To succeed, participants must...</li>
+  
+<li>AI Assistant Applications: This AI Assistant is a smart, advisory AI that supports ground based personnel by analysing target, weather, and terrain information. By interpreting this information the AI is able to...this is only the tip of the iceberg.</li>
 </ul>
 
 
