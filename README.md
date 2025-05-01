@@ -15,11 +15,11 @@ I am a military veteran with nearly 20 years of experience in the Royal New Zeal
 
 ## 🔭 Current Projects
 - **Motivating Mike:**  
-  A fun and motivating task management app that encourages users to complete their to-do list by engaging with an avatar. Users can select an avatar, which acts as their virtual companion or guide throughout their productivity journey. The app transforms task completion into an interactive experience, making everyday chores and goals more engaging and rewarding. With a playful and supportive environment, it helps users stay organized, motivated, and on track by turning productivity into an adventure with their chosen avatar cheering them on. (Beware of procrastination—your avatar might disagree!)
+  A fun and motivating task management app that encourages users to complete their to-do list by engaging with an avatar. Users can select an avatar, which acts as their virtual companion or guide throughout their productivity journey. The app transforms task completion into an interactive experience, making everyday chores and goals more engaging and rewarding. With a playful and supportive environment, it helps users stay organized, motivated, and on track by turning productivity into an adventure with their chosen avatar cheering them on. (Beware of procrastination—your avatar might disagree!). Tech: React, Chakra UI, Node, knex, express, SQLite
 
 - **Final Target:**  
-  An immersive, strategic stealth game where players are assigned a secret target while being hunted by another player. To succeed, participants must...
-
+  An immersive, strategic stealth game where players are assigned a secret target while being hunted by another player. To succeed, participants must... Tech: React, Chakra UI, Node, knex, express, SQLite
+  
 - **AI Assistant Applications:**  
   This AI Assistant supports ground-based personnel by analyzing target, weather, and terrain information. By interpreting this data, the AI provides actionable insights—only the tip of the iceberg!
 
