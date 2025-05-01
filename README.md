@@ -25,6 +25,8 @@
 <li>AI Assistant Applications: This AI Assistant is a smart, advisory AI that supports ground based personnel by analysing target, weather, and terrain information. By interpreting this information the AI is able to...this is only the tip of the iceberg.</li>
 </ul>
 
+### 🤝 Connect
+<p><a src="https://www.linkedin.com/in/phillip-keelan-a12b4a1ab/">LinkedIn</a></p>
 
 ### 🕺 Fun fact
 <p>When I'm not coding you can find me building something new on my lifestyle block our somehwere deep in the wilderness of our beautiful Aotearoa</p>
