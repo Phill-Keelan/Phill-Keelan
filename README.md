@@ -26,7 +26,7 @@
 </ul>
 
 ### 🤝 Connect
-<p><a src="https://www.linkedin.com/in/phillip-keelan-a12b4a1ab/">LinkedIn</a></p>
+[https://www.linkedin.com/in/phillip-keelan-a12b4a1ab/][LinkedIn]
 
 ### 🕺 Fun fact
 <p>When I'm not coding you can find me building something new on my lifestyle block our somehwere deep in the wilderness of our beautiful Aotearoa</p>
