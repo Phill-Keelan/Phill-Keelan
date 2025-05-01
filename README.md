@@ -27,6 +27,7 @@
 
 ### 🤝 Connect
 [LinedIn](https://www.linkedin.com/in/phillip-keelan-a12b4a1ab/)
+[CV](Phillip Keelan CV WebDev.docx)
 
 ### 🕺 Fun fact
 <p>When I'm not coding you can find me building something new on my lifestyle block our somehwere deep in the wilderness of our beautiful Aotearoa</p>
