@@ -24,7 +24,8 @@ I am a military veteran with nearly 20 years of experience in the Royal New Zeal
 
 ## 🤝 Connect
 - [LinkedIn](https://www.linkedin.com/in/phillip-keelan-a12b4a1ab/)  
-- [CV](raw.githubusercontent.co/Phill-Keelan/Phill-Keelan/main/phill-keelan-cv.docx)
+- [CV](https://raw.githubusercontent.com/Phill-Keelan/Phill-Keelan/main/phill-keelan-cv.docx
+)
 
 ## 🕺 Fun Fact
 When I'm not coding, you can find me building something new on my lifestyle block or somewhere deep in the wilderness of our beautiful Aotearoa.
