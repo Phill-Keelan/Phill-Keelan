@@ -31,3 +31,7 @@ I am a military veteran with nearly 20 years of experience in the Royal New Zeal
 ## 🕺 Fun Fact
 When I'm not coding, you can find me building something new on my lifestyle block or somewhere deep in the wilderness of our beautiful Aotearoa.
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=phill-keelan&show_icons=true&locale=en&layout=compact" alt="phill-keelan" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=phill-keelan&show_icons=true&locale=en" alt="phill-keelan" /></p>
+
