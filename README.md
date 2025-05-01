@@ -4,8 +4,10 @@
 <p>I am a military veteran with nearly 20 years of experience in the Royal New Zealand Infantry Regiment (RNZIR), specialising in intelligence, surveillance, and reconnaissance. I have transitioned into full-stack web development with a focus on creating innovative solutions to enhance safety and security. Passionate about continuous personal growth, technology, and making a positive impact. Dedicated to leveraging diverse skills and experiences to contribute meaningfully in the tech industry.</p>
 
 ### 🤖 Tech Stack
-<p>Clientside: React, Tailwind CSS, Chakra UI</p>
-<p>Serverside: Node.js, Express, Knex, SQLite3</p>
+<ul>
+<li>Clientside: React, Tailwind CSS, Chakra UI</li>
+<li>Serverside: Node.js, Express, Knex, SQLite3</li>
+</ul>
 
 ### 🌱 Current Learning
 <ul>
